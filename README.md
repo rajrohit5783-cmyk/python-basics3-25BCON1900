@@ -83,13 +83,3 @@ Marks: 87.5
 ├── struct.py
 └── README.md
 ```
-
-## 📄 License
-
-No license is currently specified for this project.
-
-If you intend to make the project open source, add a `LICENSE` file with your chosen license.
-
----
-
-⭐ A simple project for learning Python classes, objects, and attributes.
